@@ -11,6 +11,7 @@ def load_model(path):
 model = load_model('best.pt')
 
 st.markdown("# Imitating DragonFruitAI Fire Detection")
+st.markdown("Entire Code on [Github](https://github.com/gauravreddy08/fire-detection)")
 
 file  = st.file_uploader('Upload you input file', type=['mp4', 'mov'])
 output = st.empty()
