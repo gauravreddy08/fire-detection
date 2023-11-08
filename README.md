@@ -1,3 +1,5 @@
+https://github.com/gauravreddy08/fire-detection/assets/57211163/b00e6be1-4c7f-41cc-8b4a-77633404b287
+
 ## Model Summary (Fused)
 - **Layers**: 168
 - **Parameters**: 3,006,233
@@ -13,3 +15,4 @@
 | Smoke  | 893    | 543       | 0.613 | 0.352| 0.433 | 0.222    |
 ---
 ![img](results.png)
+
