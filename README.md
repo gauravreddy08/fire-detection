@@ -1,4 +1,6 @@
-https://github.com/gauravreddy08/fire-detection/assets/57211163/b00e6be1-4c7f-41cc-8b4a-77633404b287
+
+https://github.com/gauravreddy08/fire-detection/assets/57211163/8671a7b6-e850-4dd9-bc1b-9a06046da076
+
 
 ## Model Summary (Fused)
 - **Layers**: 168
